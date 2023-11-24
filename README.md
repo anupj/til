@@ -24,7 +24,7 @@ or concepts I've encountered.
 - [LLM](/LLM)
 - [AI](/AI)
 - [CLI](/CLI)
-- ... _more categories as I expand your learnings_
+- ... _more categories as I expand my learning_
 
 ## How to Use This Repository
 
