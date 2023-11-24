@@ -21,7 +21,6 @@ or concepts I've encountered.
 - [AI](/TIL/AI)
 - [LLM](/TIL/LLM)
 - [Rust](/TIL/Rust)
-- [Python](/TIL/Python)
 - [JavaScript](/TIL/JavaScript)
 - [CLI](/TIL/CLI)
 - ... _more categories as I expand my learning_
