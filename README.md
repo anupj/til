@@ -18,12 +18,12 @@ or concepts I've encountered.
 
 ## Categories
 
-- [Rust](/Rust)
-- [Python](/Python)
-- [JavaScript](/JavaScript)
-- [LLM](/LLM)
-- [AI](/AI)
-- [CLI](/CLI)
+- [AI](/TIL/AI)
+- [LLM](/TIL/LLM)
+- [Rust](/TIL/Rust)
+- [Python](/TIL/Python)
+- [JavaScript](/TIL/JavaScript)
+- [CLI](/TIL/CLI)
 - ... _more categories as I expand my learning_
 
 ## How to Use This Repository
